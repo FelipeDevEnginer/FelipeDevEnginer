@@ -1,5 +1,5 @@
 - 👋 Oi! Meu nome é Felipe! :)
-- 👀 Encontro-me bastante enpolgado com desenvolvimento web. 
+- 👀 Encontro-me bastante empolgado com desenvolvimento web. 
 - 🌱 Cursando Bacharelado em Engenharia da computação.
 - 💞️ Possuo interesse em aprender o máximo sobre tecnología e programação.
 - 📫 Sem informações de contato por enquanto :(
